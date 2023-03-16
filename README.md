@@ -19,6 +19,10 @@ Details:
 [7] "./realdata/realdata_make.m" generates the dataset of real-world radar interfered signals for testing.  
 [8] "./realdata/test_realdata.m" is similar to "test.m", but it is applicable to measured signals.  
 
+The python scripts in this fold are used for training and testing the interference mitigation models.  
+[1] "complexnn/*" includes a variety of the basic complex-valued modules.  
+[2] "train_256.py" is used to train the interference mitigation models.  
+[3] "test.py" is used for testing.  
 
 %==========================================================  
 % Contact: Jianping Wang,     J.Wang-4@tudelft.nl  
