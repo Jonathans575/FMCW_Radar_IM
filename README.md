@@ -23,6 +23,9 @@ The python scripts in this fold are used for training and testing the interferen
 [1] "complexnn/*" includes a variety of the basic complex-valued modules.  
 [2] "train_256.py" is used to train the interference mitigation models.  
 [3] "test.py" is used for testing.  
+[4] "RV_FCN.py" builds the real-valued fully convolutional network.  
+[5] "CV_FCN.py" builds the complex-valued fully convolutional network.  
+
 
 %==========================================================  
 % Contact: Jianping Wang,     J.Wang-4@tudelft.nl  
